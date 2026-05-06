@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/makanak-ghali-your-place-is-precious/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Makanak Ghali – Your Place is Precious](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
